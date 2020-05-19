@@ -26,10 +26,7 @@
 [https://powerapps.microsoft.com/ja-jp/pricing/](https://powerapps.microsoft.com/ja-jp/pricing/)
 
 ## 準備されている言語
-本テンプレートは日本語で準備されており、追加で以下の言語に対応します
-
- - 日本語 (Japanese)
- - 英語 (English)
+本テンプレートは日本語で準備されており、日本語に対応します。
 
 ## 主な機能
 緊急時に企業が従業員に対して必要な情報を提供できるよう、「情報発信」「情報閲覧」を中心に、以下の代表的な機能があります。

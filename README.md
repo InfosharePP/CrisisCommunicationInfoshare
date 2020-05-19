@@ -1,5 +1,5 @@
 # リモートワーク対応業務連絡アプリを使用したPower Appsソリューションテンプレート
-(Crises Communication for CDS environment, built by Infoshare Inc.)
+(Crisis Communication for CDS environment, built by Infoshare Inc.)
 
 ## はじめに
 

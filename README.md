@@ -1,4 +1,4 @@
-# 拡張版 社内緊急コミュニケーション CDSを使用したPower Appsソリューションテンプレート
+# リモートワーク対応業務連絡アプリを使用したPower Appsソリューションテンプレート
 (Crises Communication for CDS environment, built by Infoshare Inc.)
 
 ## はじめに

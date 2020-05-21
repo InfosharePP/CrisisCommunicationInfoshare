@@ -40,7 +40,7 @@
  - 称賛の共有：「ありがとう」などの称賛をメッセージとして可視化し、在宅勤務下でのチームワークを促進
  - チームメンバーとのステータス共有：同じ上司の配下にあるメンバーの当日の業務場所の確認が可能
  - セルフHR: アプリ独自の人事情報を実装、緊急連絡先などのユーザー自身による管理、編集が可能
-![モデル駆動型アプリ](https://infosharefl.blob.core.windows.net/%24web/webimages/ModelDrivenSample.jpg?sv=2019-10-10&ss=bqtf&srt=sco&sp=rwdlacuptfx&se=2020-05-14T22:01:42Z&sig=HwZp1R5ecpIkw0SsG9izIhDQjL2E%2BWXcDMYy6nIJMEY%3D&_=1589464914333)
+![モデル駆動型アプリ](https://infoshare.co.jp/wp-content/uploads/2020/05/model_app.png)
 
 ![キャンバスアプリ](https://infoshare.co.jp/wp-content/uploads/2020/05/top_IS.png)
 

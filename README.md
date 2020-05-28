@@ -42,7 +42,7 @@
  - セルフHR: アプリ独自の人事情報を実装、緊急連絡先などのユーザー自身による管理、編集が可能
 ![モデル駆動型アプリ](https://infoshare.co.jp/wp-content/uploads/2020/05/model_app.png)
 
-![キャンバスアプリ](https://infoshare.co.jp/wp-content/uploads/2020/05/top_IS.png)
+![キャンバスアプリ](https://infoshare.co.jp/wp-content/uploads/2020/05/top_IS-1.png)
 
 
 ## 展開方法

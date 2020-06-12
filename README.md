@@ -1,7 +1,7 @@
 # リモートワーク対応業務連絡アプリを使用したPower Appsソリューションテンプレート
 (Crisis Communication for CDS environment, built by Infoshare Inc.)
 
-# 更新情報/変更履歴
+# 更新情報
 最新版のPwoer Appsキャンバスアプリケーションファイルは「リモートワーク対応業務連絡アプリ_20200611092717.zip」です。
 Kudosの送信時にdisplayNameをエンコードするよう変更しています
 

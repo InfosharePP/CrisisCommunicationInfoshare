@@ -1,9 +1,9 @@
 # リモートワーク対応業務連絡アプリを使用したPower Appsソリューションテンプレート
 (Crisis Communication for CDS environment, built by Infoshare Inc.)
 
-# 更新情報
-最新版のPwoer Appsキャンバスアプリケーションファイルは「リモートワーク対応業務連絡アプリ_20200611092717.zip」です。
-Kudosの送信時にdisplayNameをエンコードするよう変更しています
+<p align="center">	
+<img alt="download" src="https://img.shields.io/github/downloads/InfosharePP/CrisisCommunicationInfoshare/total?color=brightgreen.svg"/>	
+</p>
 
 ## はじめに
 
@@ -28,7 +28,7 @@ Kudosの送信時にdisplayNameをエンコードするよう変更していま�
 [https://powerapps.microsoft.com/ja-jp/pricing/](https://powerapps.microsoft.com/ja-jp/pricing/)
 
 ## 必要なCDSソリューション
-本キャンバスアプリを利用するには、CDS環境とCDSソリューションが展開されている必要があります。求められている環境・ソリューションは「社内緊急コミュニケーションアプリ」と同様です。詳しくは社内緊急コミュニケーションのレポジトリを参照してください。
+本キャンバスアプリを利用するには、CDS環境とCDSソリューションが展開されている必要があります。求められている環境・ソリューションは「社内緊急コミュニケーションアプリ」と同様です。詳しくは[社内緊急コミュニケーションのレポジトリ](https://github.com/InfosharePP/CrisisCommunicationJa-Jp)を参照してください。
 
 ## 準備されている言語
 本テンプレートは日本語で準備されており、日本語にのみ対応します。
@@ -47,6 +47,11 @@ Kudosの送信時にdisplayNameをエンコードするよう変更していま�
 ![モデル駆動型アプリ](https://infoshare.co.jp/wp-content/uploads/2020/05/model_app.png)
 
 ![キャンバスアプリ](https://infoshare.co.jp/wp-content/uploads/2020/05/top_IS-1.png)
+
+
+## ダウンロード
+以下のリンクより最新版バージョンをダウンロードいただけます。  
+    [最新のリリースページへ移動](https://github.com/tetetes/CrisisCommunicationInfoshare/releases/tag/ver.2.0)
 
 
 ## 展開方法

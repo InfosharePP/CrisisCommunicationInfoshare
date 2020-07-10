@@ -51,7 +51,7 @@
 
 ## ダウンロード
 以下のリンクより最新版バージョンをダウンロードいただけます。  
-    [最新のリリースページへ移動](https://github.com/tetetes/CrisisCommunicationInfoshare/releases/tag/ver.2.0)
+    [最新のリリースページへ移動](https://github.com/InfosharePP/CrisisCommunicationInfoshare/releases/tag/ver.2.0)
 
 
 ## 展開方法

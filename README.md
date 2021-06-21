@@ -1,5 +1,5 @@
 # リモートワーク対応業務連絡アプリを使用したPower Appsソリューションテンプレート
-(Crisis Communication for CDS environment, built by Infoshare Inc.)
+(Crisis Communication for Microsoft Dataverse environment, built by Infoshare Inc.)
 
 <p align="center">	
 <img alt="download" src="https://img.shields.io/github/downloads/InfosharePP/CrisisCommunicationInfoshare/total?color=brightgreen.svg"/>	
@@ -12,9 +12,9 @@
 
 社内緊急コミュニケーションは世界的なCOVID-19蔓延に際し、オフィスでの密な業務連携が難しくなった2020年3月に米国Microsoft Corporation で問題を解決するために作成されたサンプルテンプレートです。このテンプレートでは、会社から社員に対し迅速に、かつ正確に情報伝達ができることを目標に作成されました。
 拡張版の本Power Appsアプリケーションは、さらに日常の業務を遂行するのに必要な日報機能や業務場所の共有、そして離れているチームメンバーに感謝を送る「kudos」機能を追加しています。
-また、社員情報をCDSに有するため、社員情報を有効活用できる「セルフHR」機能を搭載しています。住所変更など、個人が変更しても問題ない情報を、人事への申請などを必要とせずに更新できます。もし、人事が「変更されたことを知る」必要がある場合は、Power Automateで通知をするフローを構成することも可能です。
+また、社員情報をMicrosoft Dataverseに有するため、社員情報を有効活用できる「セルフHR」機能を搭載しています。住所変更など、個人が変更しても問題ない情報を、人事への申請などを必要とせずに更新できます。もし、人事が「変更されたことを知る」必要がある場合は、Power Automateで通知をするフローを構成することも可能です。
 個社のニーズは様々ですので、本テンプレートはあくまで標準的な形とし、カスタマイズされることを前提に構成しています。
-利用に際しCommon Data Serviceのライセンスを必要とし、Power Appsキャンバスアプリケーションとモデル駆動型アプリケーションを使用します。
+利用に際しMicrosoft Dataverseのライセンスを必要とし、Power Appsキャンバスアプリケーションとモデル駆動型アプリケーションを使用します。
 
 ## ver2.1新機能
 リモートワーク対応業務連絡アプリでは、チームメンバーに対し、出勤や退勤、休憩時間などをワンタッチで記録し、その内容を同僚と共有できる機能が設けられています。   
@@ -32,7 +32,7 @@
 
 ## 構成内容
 本テンプレートは次の要素で構成されています
- 1. CDSに展開するソリューション（マネージド・アンマネージド）
+ 1. Microsoft Dataverseに展開するソリューション（マネージド・アンマネージド）
  2. エンドユーザー利用Power Appsキャンバスアプリケーション
  3. 管理者向け展開ガイド
  4. エンドユーザー向け利用者ガイド
@@ -41,8 +41,8 @@
 本テンプレートを展開・利用するには有償のPower Appsライセンスが必要です。詳しくは下記をご参照いただくか、日本マイクロソフト担当者までお問い合わせください。
 [https://powerapps.microsoft.com/ja-jp/pricing/](https://powerapps.microsoft.com/ja-jp/pricing/)
 
-## 必要なCDSソリューション
-本キャンバスアプリを利用するには、CDS環境とCDSソリューションが展開されている必要があります。求められている環境・ソリューションは「社内緊急コミュニケーションアプリ」と同様です。詳しくは[社内緊急コミュニケーションのレポジトリ](https://github.com/InfosharePP/CrisisCommunicationJa-Jp)を参照してください。
+## 必要なMicrosoft Dataverseソリューション
+本キャンバスアプリを利用するには、Microsoft Dataverse環境とMicrosoft Dataverseソリューションが展開されている必要があります。求められている環境・ソリューションは「社内緊急コミュニケーションアプリ」と同様です。詳しくは[社内緊急コミュニケーションのレポジトリ](https://github.com/InfosharePP/CrisisCommunicationJa-Jp)を参照してください。
 
 ## 準備されている言語
 本テンプレートは日本語で準備されており、日本語にのみ対応します。
